@@ -5,7 +5,7 @@ import java.util.List;
 
  /**
  * The class includes methods to generate all possible vehicle plates numbers.
- * @author parten
+ * @author parten23
  */
 public final class Generator {
 

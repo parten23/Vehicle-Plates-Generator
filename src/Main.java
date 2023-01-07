@@ -11,7 +11,7 @@ import static generator.Generator.plateGenerator;
 import static generator.UI.*;
 
 /**
- * @author parten
+ * @author parten23
  */
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -76,5 +76,4 @@ public class Main {
             searchByIndex(num);
         }
     }
-
 }

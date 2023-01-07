@@ -34,7 +34,7 @@ import static generator.Generator.getTotalPlates;
  * A failure message is printed out to the console (Invalid option).
  * </p>
  * </blockquote>
- * @author parten
+ * @author parten23
  */
 public class UI {
 
